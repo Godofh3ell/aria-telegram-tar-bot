@@ -14,6 +14,7 @@ RUN apk add --no-cache --update \
 RUN npm config set unsafe-perm true
 
 RUN npm install -g typescript
+RUN npm i -g typescript@4.0.3
 
 RUN mkdir /bot
 RUN chmod 777 /bot
