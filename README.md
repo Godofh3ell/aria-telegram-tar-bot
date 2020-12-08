@@ -55,7 +55,7 @@ Aria-telegram-mirror-bot is now written in TypeScript. If you are migrating from
 3. Install [aria2](https://github.com/aria2/aria2).
    * For Ubuntu:
      `sudo apt install aria2`
-
+     `sudo npm i -g typescript@4.0.3 `
 4. Get Drive folder ID:
 
    * Visit [Google Drive](https://drive.google.com).
